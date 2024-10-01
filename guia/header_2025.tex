@@ -1,0 +1,48 @@
+% \usepackage{graphicx}
+\usepackage{fancyhdr} % activamos el paquete
+
+% permitir definir colores y usar resaltado de sintaxis
+% mediante fenced code blocks estilo ```bash o ```python
+% este usepackage fue funciona en Debian Buster, Ubuntu 18.04 y 20.04
+% \usepackage[dvipsnames,svgnames*,x11names*]{xcolor}
+\PassOptionsToPackage{dvipsnames,svgnames*,x11names*}{xcolor}
+
+\pagestyle{fancy} % seleccionamos un estilo
+\geometry{headheight=1in, margin=1in, top=1.5in}
+
+% http://www.estudiaradistancia.com.ar/logos/original/logo-universidad-nacional-de-lujan.png
+\lhead{\includegraphics[width=2cm]{images/logo-unlu.png}} % texto izquierda de la cabecera
+% \chead{TEXTO} % texto centro de la cabecera
+\rhead{\textbf{
+  Lic. en Sistemas de Información, UNLu\\
+  Teleinformática y Redes\\
+  Curso 2025
+}} % texto derecha de la cabecera
+% \lfoot{TEXTO} % texto izquierda del pie
+% \cfoot{\includegraphics[width=11cm]{heado2}} % imagen centro del pie
+\cfoot{\thepage} % numero de pagina al centro
+% \rfoot{TEXTO} % texto derecha del pie
+\renewcommand{\headrulewidth}{0.3pt} % grosor de la línea de la cabecera
+\renewcommand{\footrulewidth}{0.3pt} % grosor de la línea del pie
+
+\definecolor{InlineCodeFGColor}{HTML}{990000} % color de letra para codigo inline
+\definecolor{InlineCodeBGColor}{HTML}{F4F4F4} % fondo del texto codigo inline
+
+\let\oldtexttt\texttt
+
+% establece color de letra Y FONDO para codigo en linea
+%\renewcommand{\texttt}[1]{
+%  \colorbox{InlineCodeBGColor}{\textcolor{InlineCodeFGColor}{\oldtexttt{#1}}}
+%}
+
+% establece solo color de letra para codigo en linea
+\renewcommand{\texttt}[1]{
+  \textcolor{InlineCodeFGColor}{\oldtexttt{#1}}
+}
+
+\let\oldverbatim\verbatim
+
+\renewcommand{\verbatim}{
+  \color{InlineCodeFGColor}
+  \oldverbatim
+}
