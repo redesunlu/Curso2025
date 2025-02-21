@@ -36,7 +36,7 @@ Repo del Curso 2025 de "Teleinformática y Redes" (10040)
 ### Nota
 Cada uno de los archivos tiene asociado un hash que le permite validar si el archivo descargado es exactamente el original publicado por el equipo docente. En este caso, el valor está calculado con el agoritmo sha256 (Secure Hash Algorithm). Si quiere chequear la *autenticidad* del un archivo, ejecute:
 ```
-sha246sum <Nombre>
+sha256sum <Nombre>
 ```
 y compare la salida con el valor asociado (hash) en cada caso. Obviamente, deben coincidir para que el archivo sea auténtico. 
 
