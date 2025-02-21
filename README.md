@@ -30,5 +30,5 @@ Repo del Curso 2025 de "Teleinformática y Redes" (10040)
 
 
 ## Guías
-- [Guía para la presentación de trabajos prácticos] (https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/guiadeestilo_TPs.pdf)
+- [Guía para la presentación de trabajos prácticos](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/guiadeestilo_TPs.pdf)
 
