@@ -35,9 +35,9 @@ Repo del Curso 2025 de "Teleinformática y Redes" (10040)
 
 ### Nota
 Cada uno de los archivos tiene asociado su (hash) calculado con sha256. Si quiere chequear la autenticidad del archivo puede ejecutar:
-'''
+```
 sha246sum <Nombre>
-'''
+```
 Y comparar la salida con el valor asociado (hash) en cada caso.
 
 
