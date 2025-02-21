@@ -30,5 +30,6 @@ Repo del Curso 2025 de "Teleinformática y Redes" (10040)
 
 
 ## Guías
+- [Comandos Linux usuados habitualmente en TYR](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/cheatsheet.pdf?raw=true)
 - [Guía para la presentación de trabajos prácticos](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/guiadeestilo_TPs.pdf?raw=true)
 
