@@ -34,11 +34,11 @@ Repo del Curso 2025 de "Teleinformática y Redes" (10040)
 - [Guía para la presentación de trabajos prácticos](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/guiadeestilo_TPs.pdf?raw=true) [(hash)](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/guiadeestilo_TPs.pdf.sha256?raw=true)
 
 ### Nota
-Cada uno de los archivos tiene asociado su (hash) calculado con sha256. Si quiere chequear la autenticidad del archivo puede ejecutar:
+Cada uno de los archivos tiene asociado un hash que le permite validar si el archivo descargado es exactamente el original publicado por el equipo docente. En este caso, el valor está calculado con el agoritmo sha256 (Secure Hash Algorithm). Si quiere chequear la *autenticidad* del un archivo, ejecute:
 ```
 sha246sum <Nombre>
 ```
-Y comparar la salida con el valor asociado (hash) en cada caso.
+y compare la salida con el valor asociado (hash) en cada caso. Obviamente, deben coincidir para que el archivo sea auténtico. 
 
 
 
