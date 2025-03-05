@@ -12,11 +12,11 @@ Repo del Curso 2025 de "Teleinformática y Redes" (10040)
 - Conmutación, Capa de Red, IPv4
 - Subnetting, CIDR, VLSM
 - Ruteo Estático
+- IPV6
 - Ruteo Dinámico
 - Capa de Transporte y TCP
 - Control de Congestión
 - UDP
-- IPV6
 
 ## Trabajos Prácticos
 - Configuración inicial del laboratorio+Kathara
