@@ -3,7 +3,7 @@ Repo del Curso 2025 de "Teleinformática y Redes" (10040)
 
 
 ## Temas y Guías de Clase
-- Introducción, Redes y OSI
+- Introducción, Redes y OSI ([link](https://docs.google.com/document/d/1JTXoxQQIbccuMicpzUNkylcVEy3xj1pCEucjwkATRYM/edit?tab=t.0))
 - Comunicaciones de datos (modelo, señales) 
 - Capa de Enlace
 - Redes Locales (1)
