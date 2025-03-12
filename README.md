@@ -28,6 +28,8 @@ Repo del Curso 2025 de "Teleinformática y Redes" (10040)
 - IPv6
 - Actividad TP Final Integrador
 
+## Recursos
+- Máquina virtual para TPs ([link](https://drive.google.com/file/d/1Ni3VpbJ3trFUBaVhjc0iNcPUvRajqOD1/view?usp=sharing))
 
 ## Guías
 - [Comandos Linux usuados habitualmente en TYR](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/cheatsheet.pdf?raw=true) [(hash)](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/cheatsheet.pdf.sha256?raw=true)
