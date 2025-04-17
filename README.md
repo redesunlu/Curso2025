@@ -6,7 +6,7 @@ Repo del Curso 2025 de "Teleinformática y Redes" (10040)
 - Introducción, Redes y OSI ([link](https://docs.google.com/document/d/1JTXoxQQIbccuMicpzUNkylcVEy3xj1pCEucjwkATRYM/edit?tab=t.0))
 - Comunicaciones de datos (modelo, señales) ([link](https://docs.google.com/document/d/1H4nvITuYq_7kDkaN-OMud9MJN63KVj43pfrmGMGLoso/edit?usp=sharing))
 - Capa de Enlace ([link](https://docs.google.com/document/d/1wh3yXrUibZrZb69CBCdutLYikuKL7k-EUKejNZ0FxMM/edit?tab=t.0))
-- Redes Locales (1)
+- Redes Locales y WLANS ([link](https://docs.google.com/document/d/128DXmhsgXLKHZaj98z5x_HmcTCdE5pTh_w3Eg4dnD5E/edit?tab=t.0))
 - Cableado
 - WLANS
 - Conmutación, Capa de Red, IPv4
