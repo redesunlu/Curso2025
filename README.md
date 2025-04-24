@@ -23,7 +23,8 @@ Repo del Curso 2025 de "Teleinformática y Redes" (10040)
 - Cliente/Servidor - Terminal ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl2-telnet.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl2-telnet.pdf.sha256?raw=true))
 - Servicio de Nombres ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl3-dns.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl3-dns.pdf.sha256?raw=true))
 - Correo Electrónico ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl4-correo-electronico.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl4-correo-electronico.pdf.sha256?raw=true))
-- Web - HTTP
+- Web - HTTP parte 1 ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl5-http.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl5-http.pdf.sha256?raw=true))
+- Web - HTTP parte 2 ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl6-http-parte2.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl6-http-parte2.pdf.sha256?raw=true))
 - Subnetting/Ruteo
 - IPv6
 - Actividad TP Final Integrador
