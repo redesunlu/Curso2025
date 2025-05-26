@@ -9,7 +9,7 @@ Repo del Curso 2025 de "Teleinformática y Redes" (10040)
 - Redes Locales y WLANS ([link](https://docs.google.com/document/d/128DXmhsgXLKHZaj98z5x_HmcTCdE5pTh_w3Eg4dnD5E/edit?tab=t.0))
 - Cableado ([link](https://docs.google.com/document/d/1lRU2sXzr-keA2Dgo4wukwWayurHaF1FNzkDas_uPBgs/edit?tab=t.0))
 - Conmutación, Capa de Red, IPv4 ([link](https://docs.google.com/document/d/1HcTTJ1E4vFzI9bIbhyvqTIeb9zbvNzUIE6uymKKcy4M/edit?tab=t.0))
-- Subnetting, CIDR, VLSM
+- Subnetting, CIDR, VLSM ([link](https://docs.google.com/document/d/1q0svbLuzm5Xtdgc1E_Q8R5PvzjHJZ2PZekymznf5JgE/edit?usp=sharing))
 - Ruteo Estático
 - IPV6
 - Ruteo Dinámico
