@@ -27,7 +27,7 @@ Repo del Curso 2025 de "Teleinformática y Redes" (10040)
 - Web - HTTP parte 2 ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl6-http-parte2.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tpl6-http-parte2.pdf.sha256?raw=true))
 - Subnetting/Ruteo
 - IPv6
-- Actividad TP Final Integrador
+- Actividad TP Final Integrador ([link](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tp-final-2025.pdf?raw=true) - [hash](https://github.com/redesunlu/tyr-trabajos-practicos/blob/main/pdf/tp-final-2025.pdf.sha256?raw=true))
 
 ## Recursos
 - Máquina virtual para TPs [link](https://drive.google.com/file/d/1Up-LcjwPVvvoIIGCFIgXoVQvhyFzhz8t)
