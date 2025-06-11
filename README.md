@@ -12,7 +12,7 @@ Repo del Curso 2025 de ["Teleinformática y Redes" (10040)](https://www.labredes
 - Ruteo ([link](https://docs.google.com/document/d/1Uspx5ZMHgky6LkrTnj-zVsAomphtsavgEo1fHwWbfsU/edit?tab=t.0))
 - IPV6 ([link](https://docs.google.com/document/d/1NxSwqdYTot_ghuLFEnGiG3TP_ilycoAndo3M-Gkl9RM/edit?tab=t.0))
 - Capa de Transporte y TCP (1) ([link](https://docs.google.com/document/d/1uxsxMrftBXlNxLNTDiT5KcrKai9AlJjIlTmpV3IwUzM/edit?tab=t.0))
-- TCP (2) ([link]())
+- TCP (2) ([link](https://docs.google.com/document/d/1XEVSKDHnIBizx35UB3u9lRPar6_m2HfUv_PShi3jZyo/edit?tab=t.0))
 - UDP
 
 ## Trabajos Prácticos
